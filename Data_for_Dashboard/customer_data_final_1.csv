@@ -1,0 +1,156 @@
+Customer_ID,Name,Age,Gender,Customer_signup_date,Cust_Age_range,SPENDING_RATIO,SPENDING_GROUP
+C13584,John Smith,34,Male,2014-10-15,Adult,11.733469387755102,High Spender
+C17953,Michael Brown,27,Male,2014-10-15,Young,10.9005,Medium Spender
+C51673,James Wilson,29,Male,2014-10-15,Young,11.69763779527559,High Spender
+C18740,Robert Davis,51,Male,2014-10-16,Old age,11.532617449664428,High Spender
+C12608,Daniel Clark,26,Male,2014-10-18,Young,11.94453125,Very High Spender
+C28915,Matthew Young,36,Male,2014-10-19,Adult,13.12752,Very High Spender
+C40182,William King,32,Male,2014-10-15,Adult,11.441578947368422,High Spender
+C20541,Andrew Evans,44,Male,2014-10-15,Elder,11.03557251908397,Medium Spender
+C42861,David Hernandez,25,Male,2014-10-15,Young,12.18977099236641,Very High Spender
+C25439,Charles Brooks,35,Male,2014-10-17,Adult,10.895944055944055,Low Spender 
+C14609,Anthony Hill,33,Male,2014-10-21,Adult,10.490074074074075,Low Spender 
+C23982,Joseph Rivera,39,Male,2014-10-16,Adult,11.006107382550336,Medium Spender
+C26748,Christopher Ross,22,Male,2014-10-16,Young,11.74252100840336,High Spender
+C22096,Samuel Morgan,40,Male,2014-10-16,Adult,11.446097560975609,High Spender
+C51170,Benjamin Ward,42,Male,2014-10-16,Elder,11.078028169014084,Medium Spender
+C44285,Kevin Ramirez,34,Male,2014-10-15,Adult,12.646333333333333,Very High Spender
+C17841,Timothy Butler,37,Male,2014-10-25,Adult,10.081157024793388,Low Spender 
+C22251,Jason Foster,38,Male,2014-10-18,Adult,11.78595238095238,Very High Spender
+C19280,Richard Simmons,31,Male,2014-10-15,Adult,10.773333333333333,Low Spender 
+C23970,Nicholas Martinez,40,Male,2014-10-18,Adult,10.805877192982456,Low Spender 
+C49580,Joshua Bell,36,Male,2014-10-16,Adult,11.678376068376068,High Spender
+C17356,Ryan Nelson,34,Male,2014-10-16,Adult,10.722066115702479,Low Spender 
+C26715,Christian Price,30,Male,2014-10-15,Young,12.049754098360655,Very High Spender
+C18630,Aaron Simmons,37,Male,2014-10-19,Adult,11.701166666666667,High Spender
+C50372,Ethan Lewis,32,Male,2014-10-15,Adult,11.32128787878788,Medium Spender
+C22483,Justin Hayes,29,Male,2014-10-17,Young,10.437967479674796,Low Spender 
+C51562,Brandon Parker,38,Male,2014-10-15,Adult,11.771304347826087,High Spender
+C15278,Austin Cooper,26,Male,2014-10-16,Young,11.271917808219179,Medium Spender
+C20492,Brian Kelly,33,Male,2014-10-16,Adult,11.585702479338842,High Spender
+C18924,Alexander Cox,29,Male,2014-10-15,Young,11.217730496453902,Medium Spender
+C50648,Zachary Murphy,31,Male,2014-10-17,Adult,10.70123076923077,Low Spender 
+C20841,Scott Turner,34,Male,2014-10-16,Adult,11.410491803278688,High Spender
+C24739,Jacob Hughes,36,Male,2014-10-16,Adult,10.296446280991734,Low Spender 
+C11029,Ryan Foster,30,Male,2014-10-16,Young,11.071908396946565,Medium Spender
+C51793,Samuel Baker,38,Male,2014-10-17,Adult,11.362142857142857,Medium Spender
+C17135,Charles Gray,32,Male,2014-10-17,Adult,10.312978723404257,Low Spender 
+C31247,Kevin Mitchell,34,Male,2014-10-16,Adult,11.119469026548673,Medium Spender
+C49782,Jason White,31,Male,2014-10-19,Adult,12.505284552845529,Very High Spender
+C29861,Matthew Murphy,36,Male,2014-10-16,Adult,10.724285714285713,Low Spender 
+C51074,William Long,26,Male,2014-10-18,Young,10.261217391304347,Low Spender 
+C23908,Daniel Scott,30,Male,2014-10-15,Young,10.396761904761906,Low Spender 
+C15370,Andrew Mitchell,38,Male,2014-10-15,Adult,11.288222222222222,Medium Spender
+C22584,Christopher Hill,32,Male,2014-10-16,Adult,12.348166666666666,Very High Spender
+C25836,Michael Allen,31,Male,2014-10-18,Adult,11.82776923076923,Very High Spender
+C11938,Anthony Lewis,36,Male,2014-10-19,Adult,11.444193548387096,High Spender
+C52218,Joshua Parker,30,Male,2014-10-16,Young,11.515116279069767,High Spender
+C43455,David Hernandez,38,Male,2014-10-15,Adult,10.144140625,Low Spender 
+C26274,William Turner,32,Male,2014-10-15,Adult,11.591164383561644,High Spender
+C19620,James Hall,36,Male,2014-10-16,Adult,11.028187919463088,Medium Spender
+C50924,John Cooper,26,Male,2014-10-15,Young,11.752477876106195,High Spender
+C23960,Benjamin Cox,30,Male,2014-10-16,Young,11.636544117647059,High Spender
+C29244,David Ward,38,Male,2014-10-15,Adult,9.847676056338027,Low Spender 
+C26756,Samuel Green,32,Male,2014-10-17,Adult,11.803628318584071,Very High Spender
+C19492,Nicholas Allen,31,Male,2014-10-18,Adult,10.85813953488372,Low Spender 
+C20815,Christopher Moore,36,Male,2014-10-18,Adult,10.95891472868217,Medium Spender
+C22177,Michael Lewis,26,Male,2014-10-15,Young,11.193739837398374,Medium Spender
+C52940,Matthew Adams,30,Male,2014-10-15,Young,12.214833333333333,Very High Spender
+C14782,Daniel Wilson,38,Male,2014-10-15,Adult,12.533868613138686,Very High Spender
+C25768,Matthew King,32,Male,2014-10-17,Adult,10.7875,Low Spender 
+C18935,Nicholas Turner,31,Male,2014-10-21,Adult,11.644032258064515,High Spender
+C50184,Joshua Hall,36,Male,2014-10-15,Adult,10.277777777777779,Low Spender 
+C21754,James Green,26,Male,2014-10-17,Young,11.199172932330827,Medium Spender
+C25508,David Cox,30,Male,2014-10-16,Young,12.07584745762712,Very High Spender
+C14890,Andrew Butler,38,Male,2014-10-17,Adult,12.08015037593985,Very High Spender
+C22490,Joseph Turner,32,Male,2014-10-15,Adult,11.267096774193547,Medium Spender
+C28260,Michael Ward,31,Male,2014-10-17,Adult,10.790967741935484,Low Spender 
+C22069,Christopher Hall,36,Male,2014-10-15,Adult,12.25295081967213,Very High Spender
+C23868,Nicholas King,26,Male,2014-10-15,Young,12.105934959349593,Very High Spender
+C15722,Alexander Wright,30,Male,2014-10-15,Young,11.344032258064518,Medium Spender
+C24803,Benjamin Butler,38,Male,2014-10-15,Adult,10.8546875,Low Spender 
+C23164,James Turner,32,Male,2014-10-15,Adult,11.73985294117647,High Spender
+C20073,Matthew Green,31,Male,2014-10-16,Adult,10.808345323741007,Low Spender 
+C15980,David Adams,36,Male,2014-10-19,Adult,11.801732283464567,Very High Spender
+C21471,Michael Lee,26,Male,2014-10-17,Young,10.902017543859648,Medium Spender
+C24982,Daniel Wright,30,Male,2014-10-16,Young,10.812868217054262,Low Spender 
+C22518,Nicholas Mitchell,38,Male,2014-10-17,Adult,11.19075630252101,Medium Spender
+C27146,Christopher Davis,32,Male,2014-10-15,Adult,12.35651376146789,Very High Spender
+C19782,Matthew Smith,31,Male,2014-10-15,Adult,12.976058394160583,Very High Spender
+C21806,David Foster,36,Male,2014-10-15,Adult,11.416637168141593,High Spender
+C22846,Nicholas Turner,26,Male,2014-10-18,Young,11.404031007751938,Medium Spender
+C17629,Alexander Wright,30,Male,2014-10-17,Young,11.976050420168068,Very High Spender
+C21351,Benjamin Butler,38,Male,2014-10-15,Adult,12.154675324675324,Very High Spender
+C23772,James Turner,32,Male,2014-10-15,Adult,11.59618320610687,High Spender
+C21009,Matthew Green,31,Male,2014-10-17,Adult,12.107194244604317,Very High Spender
+C19983,David Adams,36,Male,2014-10-17,Adult,11.617652173913044,High Spender
+C21618,Michael Lee,26,Male,2014-10-16,Young,10.482878787878787,Low Spender 
+C25409,Daniel Wright,30,Male,2014-10-15,Young,9.864035087719298,Low Spender 
+C22418,Nicholas Mitchell,38,Male,2014-10-19,Adult,11.763181818181819,High Spender
+C27365,Christopher Davis,32,Male,2014-10-18,Adult,11.063228346456693,Medium Spender
+C17207,Matthew Smith,31,Male,2014-10-15,Adult,12.756074074074073,Very High Spender
+C21911,David Foster,36,Male,2014-10-16,Adult,10.488793103448277,Low Spender 
+C26694,Nicholas Turner,26,Male,2014-10-17,Young,10.613793103448277,Low Spender 
+C16964,Alexander Wright,30,Male,2014-10-16,Young,12.16256,Very High Spender
+C22916,Benjamin Butler,38,Male,2014-10-18,Adult,11.438095238095238,High Spender
+C23933,James Turner,32,Male,2014-10-15,Adult,11.625271317829458,High Spender
+C21492,Matthew Green,31,Male,2014-10-15,Adult,11.377209302325582,Medium Spender
+C25806,David Adams,36,Male,2014-10-16,Adult,10.86464,Low Spender 
+C28924,Michael Lee,26,Male,2014-10-17,Young,11.955775862068965,Very High Spender
+C25673,Daniel Wright,30,Male,2014-10-15,Young,11.381397058823529,Medium Spender
+C26841,Nicholas Mitchell,38,Male,2014-10-22,Adult,10.512900763358779,Low Spender 
+C29604,Christopher Davis,32,Male,2014-10-15,Adult,11.71203007518797,High Spender
+C20342,Matthew Smith,31,Male,2014-10-17,Adult,10.36128,Low Spender 
+C23672,David Foster,36,Male,2014-10-18,Adult,12.095153846153845,Very High Spender
+C27084,Nicholas Turner,26,Male,2014-10-17,Young,11.767438016528924,High Spender
+C20659,Alexander Wright,30,Male,2014-10-15,Young,11.711897810218979,High Spender
+C38438,Sarah Lee,28,Female,2014-10-15,Young,12.364965034965035,Very High Spender
+C39632,Jessica Murphy,27,Female,2014-10-15,Young,11.853021582733813,Very High Spender
+C36127,Amber Coleman,28,Female,2014-10-16,Young,10.52910569105691,Low Spender 
+C38195,Sarah Lee,27,Female,2014-10-18,Young,10.985929203539824,Medium Spender
+C41429,Kimberly Foster,28,Female,2014-10-15,Young,11.875187969924813,Very High Spender
+C51374,Melissa Wright,33,Female,2014-10-16,Adult,11.163856209150326,Medium Spender
+C52493,Jessica Thompson,30,Female,2014-10-18,Young,11.867192982456139,Very High Spender
+C36214,Isabella Reed,23,Female,2014-10-16,Young,11.50421875,High Spender
+C50462,Ashley Thompson,25,Female,2014-10-16,Young,11.319098360655738,Medium Spender
+C39184,Emily Parker,29,Female,2014-10-15,Young,11.982773722627737,Very High Spender
+C49226,Jessica Smith,30,Female,2014-10-16,Young,12.8969,Very High Spender
+C39251,Kimberly Parker,25,Female,2014-10-15,Young,11.650518518518519,High Spender
+C41239,Amanda Adams,25,Female,2014-10-16,Young,11.460642857142858,High Spender
+C51027,Amanda Moore,29,Female,2014-10-15,Young,11.35212765957447,Medium Spender
+C29162,Jennifer Foster,25,Female,2014-10-16,Young,11.565572519083968,High Spender
+C35892,Sarah Lee,33,Female,2014-10-16,Adult,10.374661654135338,Low Spender 
+C36609,Emily Hall,27,Female,2014-10-15,Young,12.611780821917808,Very High Spender
+C34152,Jessica Murphy,27,Female,2014-10-20,Young,11.733700787401576,High Spender
+C49317,Emily Martinez,28,Female,2014-10-17,Young,11.429736842105264,High Spender
+C44617,Ashley Hernandez,27,Female,2014-10-15,Young,12.432689655172414,Very High Spender
+C37591,Jessica Hall,28,Female,2014-10-16,Young,11.186818181818182,Medium Spender
+C29486,Olivia White,37,Female,2014-10-17,Adult,12.38740157480315,Very High Spender
+C49850,Kimberly Turner,33,Female,2014-10-15,Adult,10.935078125,Medium Spender
+C51247,Melissa Wright,33,Female,2014-10-19,Adult,11.210243902439023,Medium Spender
+C31645,Emily Reed,30,Female,2014-10-15,Young,10.807886178861787,Low Spender 
+C39914,Melissa Bailey,28,Female,2014-10-17,Young,12.533071428571427,Very High Spender
+C37492,Sarah Turner,33,Female,2014-10-17,Adult,11.693475177304965,High Spender
+C33762,Lauren Murphy,29,Female,2014-10-17,Young,10.992086330935253,Medium Spender
+C39175,Amanda Adams,25,Female,2014-10-16,Young,10.77646017699115,Low Spender 
+C42538,Jessica Baker,33,Female,2014-10-15,Adult,10.60291338582677,Low Spender 
+C39140,Jennifer White,29,Female,2014-10-16,Young,12.052567567567568,Very High Spender
+C46201,Emily Johnson,38,Female,2014-10-15,Adult,10.213986928104575,Low Spender 
+C40291,Kimberly Parker,25,Female,2014-10-15,Young,10.959172413793103,Medium Spender
+C40467,Ashley Davis,29,Female,2014-10-20,Young,12.442313432835821,Very High Spender
+C38391,Grace Powell,37,Female,2014-10-17,Adult,10.50921686746988,Low Spender 
+C20147,Laura Turner,29,Female,2014-10-22,Young,10.589920634920635,Low Spender 
+C39752,Melissa Johnson,28,Female,2014-10-15,Young,11.20443661971831,Medium Spender
+C49620,Lily Coleman,31,Female,2014-10-18,Adult,11.324656488549618,Medium Spender
+C34789,Heather Turner,26,Female,2014-10-16,Young,12.154577464788733,Very High Spender
+C38062,Jennifer White,29,Female,2014-10-15,Young,11.295327868852459,Medium Spender
+C39374,Emily Hall,27,Female,2014-10-15,Young,11.228959999999999,Medium Spender
+C40149,Kimberly Davis,29,Female,2014-10-15,Young,11.396821705426357,Medium Spender
+C40152,Kimberly Parker,25,Female,2014-10-15,Young,11.535111111111112,High Spender
+C40238,Amanda Adams,25,Female,2014-10-21,Young,10.595303030303029,Low Spender 
+C44412,Jennifer Lee,31,Female,2014-10-15,Adult,11.35448275862069,Medium Spender
+C38670,Chloe Simmons,29,Female,2014-10-18,Young,11.579421487603305,High Spender
+C38493,Megan Carter,27,Female,2014-10-18,Young,11.268151260504203,Medium Spender
+C40075,Kayla Reed,28,Female,2014-10-15,Young,11.643137254901962,High Spender
+C38802,Sarah Lee,28,Female,2014-10-16,Young,11.658571428571427,High Spender
+C42705,Michelle Hall,32,Female,2014-10-16,Adult,10.361525423728814,Low Spender 
